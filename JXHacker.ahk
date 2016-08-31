@@ -1,4 +1,4 @@
-;一个改善“健讯医院信息系统”的外挂程序，基于AutoHotKey 1.1.24.01
+;一个改善“健迅医院信息系统”的外挂程序，基于AutoHotKey 1.1.24.01
 ;项目地址 https://github.com/chchuj/HIS-hack
 ;欢迎到https://github.com/chchuj/HIS-hack/issues提交反馈
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
