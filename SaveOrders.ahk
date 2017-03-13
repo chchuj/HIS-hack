@@ -3,7 +3,7 @@
 Send, {F2} ;保存
 WinWaitActive, 用户确认 ;等保存的窗口弹出
 Send, 12345 ;录入者工号
-Send, {Enter} ；光标移动到下一格
+Send, {Enter} ;光标移动到下一格
 Send, 54321 ;录入者密码
 Send, {Enter}
 return
